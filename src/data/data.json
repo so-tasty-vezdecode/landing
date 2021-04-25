@@ -1,0 +1,118 @@
+{
+    "Header": {
+        "title": "Вездекод",
+        "paragraph": "Онлайн марафон в Туле в Туле с 24 по 25 апреля"
+    },
+    "About": {
+        "paragraph": "Онлайн марафон в Туле - один из 4-ых отборочных хакатонов. Большой финал для 32 команд, лидирующих по итогам отборочных состязаний, пройдёт в октябре в Санкт-Петербурге, в одном из штабов ВКонтакте.",
+        "Why": [
+            "Web",
+            "Мобильная разработка",
+            "Дизайн интерфейсов",
+            "VK Mini Apps"
+        ],
+        "Why2": [
+            "Робототехника",
+            "Информационная безопасность",
+            "3D-моделирование",
+            "Разработка и тестирование API"
+        ]
+    },
+    "Services": [
+        {
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Рады быть частью это увлекательного мероприятия."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "РУБИКОН"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "SmartBear"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "Senla"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "Максимастер"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "Scloud.ru"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "DD Planet"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "Центр информационных технологий"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "SafeCafe"
+        },
+        {
+            "img": "img/testimonials/1.jpg",
+            "text": "\"Рады быть частью это увлекательного мероприятия.\"",
+            "name": "GDG Russia"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "ВКонтакте"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Тульский Государственный Университет"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
